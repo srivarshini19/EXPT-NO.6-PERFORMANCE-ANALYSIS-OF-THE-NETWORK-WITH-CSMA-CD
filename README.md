@@ -2,7 +2,7 @@
 
 To write an NS2 program to observe the performance of the network with Carrier Sense Multiple Access/Collision Detection.
 .
-# EQUIPMENT REQUIRED
+# EQUIPMENT REQUIRED 
 
 PC System with Linux OS, NS2 software.
 
